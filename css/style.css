@@ -9036,14 +9036,3 @@
 	  box-sizing:border-box;
 	  height:45px;
 	}
-
-	.client-row {
-		display: table;
-		width: 100%;
-	}
-
-	.client {
-		float: none;
-	    display: table-cell;
-	    vertical-align: middle;
-	}
